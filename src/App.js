@@ -23,3 +23,21 @@ function App() {
 }
 
 export default App;
+
+}
+·············first_result.push(ops[x-
+·············first_result.push(ops[x-
+···········else·if·(ops[x]·==·'+')·{
+···········}
+·············first_result.push(num(op
+···········else·if·(ops[x]·==·'D')·{
+···········}
+·············first_result.pop()
+···········else·if·(ops[x]·==·'C')·{
+···········}
+·············first_result.push(ops[x]
+···········if·(num(ops[x])){
+·········for·(x=0;·x·<·ops.length;·x+
+·········const·first_result·=·[]
+·········var·result·=·null;
+v
